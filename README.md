@@ -1,4 +1,4 @@
-<h1>👋 Olá! Meu nome é Luiz e sou um desenvolvedor back-end Java. Bom demais ter você por aqui.</h1> 
+<h1>👋 Olá! Meu nome é Luiz. Sou um desenvolvedor back-end Java e é bom demais ter você por aqui.</h1> 
 
 <a href="https://www.linkedin.com/in/luiz-felipe-675ba122a" rel="nofollow"><img src="https://img.icons8.com/color/24/000000/linkedin.png"> www.linkedin.com/in/luiz-felipe-675ba122a <br> 
  <img src="https://img.icons8.com/external-justicon-flat-justicon/18/000000/external-gmail-social-media-justicon-flat-justicon.png"/> luizfelipedlima25@gmail.com  
