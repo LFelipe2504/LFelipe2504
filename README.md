@@ -1,4 +1,4 @@
-<h1>Desenvolvedor back-end Java.</h1> 
+<h1>Desenvolvedor back-end Java</h1> 
 
 <a href="https://www.linkedin.com/in/luiz-felipe-675ba122a" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  <a href="mailto:luizfelipedlima25@gmail"><img src="https://img.shields.io/badge/luizfelipedlima25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
 
